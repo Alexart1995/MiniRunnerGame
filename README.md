@@ -1,6 +1,6 @@
 # MiniRunnerGame
 
-<img src="https://github.com/Alexart1995/MiniRunnerGame/blob/main/GameEx.gif" width="240" height="480">
+<img src="https://github.com/Alexart1995/MiniRunnerGame/blob/main/GameEx.gif" width="480" height="240">
 
 Unity Developer test task <br>
 Unity version: 2021.1.20
