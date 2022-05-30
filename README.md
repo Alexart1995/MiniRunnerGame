@@ -1,9 +1,11 @@
 # MiniRunnerGame
 
+<img src="https://github.com/Alexart1995/MiniRunnerGame/blob/main/GameEx.gif" width="240" height="480">
+
 Unity Developer test task <br>
 Unity version: 2021.1.20
 
-The practical part:
+## The practical part:
 
 - It is necessary to implement a prototype of the game with the following mechanics based on the provided video:
 
