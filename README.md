@@ -1,6 +1,6 @@
 # MiniRunnerGame
 
-Unity Developer test task
+Unity Developer test task <br>
 Unity version: 2021.1.20
 
 The practical part:
